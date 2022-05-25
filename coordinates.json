@@ -47959,7 +47959,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -60573,7 +60575,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -60672,7 +60681,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -60871,7 +60887,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -60910,7 +60933,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -60997,7 +61027,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61076,7 +61108,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61131,7 +61165,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61210,7 +61251,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61257,7 +61300,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61384,7 +61429,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61443,7 +61490,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61526,7 +61575,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61589,7 +61645,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61652,7 +61710,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61819,7 +61879,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61902,7 +61964,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -61985,7 +62049,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -62152,7 +62218,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -62443,7 +62511,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -62830,7 +62900,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -62969,7 +63041,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -63040,7 +63114,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -63351,7 +63427,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -63546,7 +63624,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -63633,7 +63713,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -63728,7 +63810,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -63911,7 +63995,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64006,7 +64092,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64073,7 +64161,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64148,7 +64238,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64223,7 +64315,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64310,7 +64404,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64397,7 +64493,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64460,7 +64558,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64567,7 +64667,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64646,7 +64748,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64737,7 +64841,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64844,7 +64950,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -64935,7 +65043,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65006,7 +65116,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65077,7 +65189,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65140,7 +65254,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65215,7 +65331,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65290,7 +65408,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65377,7 +65497,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65476,7 +65598,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65575,7 +65699,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65726,7 +65852,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65797,7 +65925,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65964,7 +66094,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66043,7 +66175,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66106,7 +66240,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66169,7 +66305,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66352,7 +66490,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66403,7 +66543,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66454,7 +66596,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66693,7 +66837,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66756,7 +66902,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66831,7 +66979,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66894,7 +67044,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -66953,7 +67105,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "fill-opacity": "",
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67044,7 +67199,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67123,7 +67280,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67194,7 +67353,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67265,7 +67426,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67336,7 +67499,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67403,7 +67568,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67462,7 +67629,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67537,7 +67706,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67624,7 +67795,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67679,7 +67852,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -67746,7 +67921,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68153,7 +68330,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68256,7 +68435,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68383,7 +68564,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68454,7 +68637,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68541,7 +68726,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68604,7 +68791,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68667,7 +68856,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68750,7 +68941,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68833,7 +69026,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68908,7 +69103,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68995,7 +69192,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69078,7 +69277,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69161,7 +69362,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69268,7 +69471,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69387,7 +69592,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69454,7 +69661,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69541,7 +69750,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69620,7 +69831,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69695,7 +69908,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69786,7 +70001,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69913,7 +70130,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70012,7 +70231,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70103,7 +70324,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70186,7 +70409,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70261,7 +70486,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70324,7 +70551,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70419,7 +70648,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70490,7 +70721,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70589,7 +70822,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70680,7 +70915,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70755,7 +70992,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70830,7 +71069,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70909,7 +71150,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70976,7 +71219,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71051,7 +71296,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71126,7 +71373,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71201,7 +71450,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71272,7 +71523,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71327,7 +71580,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71410,7 +71665,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71509,7 +71766,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71572,7 +71831,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71647,7 +71908,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71722,7 +71985,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71841,7 +72106,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71912,7 +72179,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -71979,7 +72248,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72042,7 +72313,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72129,7 +72402,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72284,7 +72559,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72351,7 +72628,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72414,7 +72693,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72525,7 +72806,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72592,7 +72875,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72667,7 +72952,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72770,7 +73057,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -72977,7 +73266,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -73072,7 +73363,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -73323,7 +73616,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -73498,7 +73793,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -73601,7 +73898,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -73712,7 +74011,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -73823,7 +74124,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -73942,7 +74245,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74017,7 +74322,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74128,7 +74435,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74279,7 +74588,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74418,7 +74729,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74509,7 +74822,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74588,7 +74903,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74667,7 +74984,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74734,7 +75053,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74805,7 +75126,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -74916,7 +75239,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -76111,7 +76436,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -76210,7 +76537,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -76285,7 +76614,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -76348,7 +76679,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -76419,7 +76752,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -76530,7 +76865,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -76637,7 +76974,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -76716,7 +77055,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -76819,7 +77160,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -77002,7 +77345,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -77181,7 +77526,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -77356,7 +77703,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -77483,7 +77832,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -77602,7 +77953,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -77681,7 +78034,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -77768,7 +78123,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -77847,7 +78204,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -78010,7 +78369,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -78077,7 +78438,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -78136,7 +78499,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -78255,7 +78625,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -78318,7 +78690,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -78413,7 +78787,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -78496,7 +78872,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -78551,7 +78929,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -78610,7 +78990,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -78677,7 +79059,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -78776,7 +79160,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79059,7 +79445,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79130,7 +79518,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79209,7 +79599,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79292,7 +79684,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79375,7 +79769,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79462,7 +79858,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79529,7 +79927,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79592,7 +79992,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79667,7 +80069,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79754,7 +80158,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79833,7 +80239,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -80016,7 +80424,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -80139,7 +80549,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -80238,7 +80650,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2",
+        "fill": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -80325,7 +80740,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -80460,7 +80877,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -80683,7 +81102,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -80870,7 +81291,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -81073,7 +81496,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -81348,7 +81773,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -81511,7 +81938,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": "Island 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -81626,7 +82055,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "area name": "Palm Jabal Ali"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
