@@ -61676,7 +61676,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -61741,7 +61746,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -61910,7 +61920,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -61995,7 +62010,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -62080,7 +62100,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -62249,7 +62274,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -62542,7 +62572,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -62931,7 +62966,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -63072,7 +63112,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -63145,7 +63190,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -63458,7 +63508,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -63655,7 +63710,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -63744,7 +63804,12 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke": "#555555",
+        "fill": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -63841,7 +63906,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64026,7 +64092,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64123,7 +64190,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64192,7 +64260,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64269,7 +64338,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64346,7 +64416,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64435,7 +64506,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64524,7 +64596,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64589,7 +64662,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64698,7 +64772,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64779,7 +64854,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64872,7 +64948,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -64981,7 +65058,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -65074,7 +65152,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -65147,7 +65226,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -65220,7 +65300,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -65285,7 +65366,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -65362,7 +65444,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -65439,7 +65522,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -65528,7 +65612,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -65629,7 +65714,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -65730,7 +65816,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -65883,7 +65970,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -65956,7 +66044,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -66125,7 +66214,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -66206,7 +66296,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -66271,7 +66362,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -66336,7 +66428,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -66521,7 +66614,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -66574,7 +66668,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -66627,7 +66722,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -66868,7 +66964,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -66933,7 +67030,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67010,7 +67108,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67075,7 +67174,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67136,7 +67236,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "area name": "Island 2"
       },
       "geometry": {
@@ -67230,7 +67330,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67311,7 +67412,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67384,7 +67486,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67457,7 +67560,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67530,7 +67634,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67599,7 +67704,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67660,7 +67766,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67737,7 +67844,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67826,7 +67934,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67883,7 +67992,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -67952,7 +68062,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -68361,7 +68472,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -68466,7 +68578,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -68595,7 +68708,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -68668,7 +68782,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -68757,7 +68872,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -68822,7 +68938,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -68887,7 +69004,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -68972,7 +69090,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -69057,7 +69176,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -69134,7 +69254,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -69223,7 +69344,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -69308,7 +69430,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -69393,7 +69516,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -69502,7 +69626,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -69623,7 +69748,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -69692,7 +69818,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -69781,7 +69908,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -69862,7 +69990,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -69939,7 +70068,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -70032,7 +70162,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -70161,7 +70292,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -70262,7 +70394,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -70355,7 +70488,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -70440,7 +70574,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -70517,7 +70652,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -70582,7 +70718,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -70679,7 +70816,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -70752,7 +70890,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -70853,7 +70992,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -70946,7 +71086,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71023,7 +71164,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71100,7 +71242,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71181,7 +71324,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71250,7 +71394,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71327,7 +71472,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71404,7 +71550,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71481,7 +71628,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71554,7 +71702,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71611,7 +71760,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71696,7 +71846,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71797,7 +71948,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71862,7 +72014,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -71939,7 +72092,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72016,7 +72170,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72137,7 +72292,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72210,7 +72366,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72279,7 +72436,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72344,7 +72502,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72433,7 +72592,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72590,7 +72750,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72659,7 +72820,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72724,7 +72886,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72837,7 +73000,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72906,7 +73070,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -72983,7 +73148,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -73088,7 +73254,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -73297,7 +73464,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -73394,7 +73562,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -73647,7 +73816,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -73824,7 +73994,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -73929,7 +74100,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -74042,7 +74214,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -74155,7 +74328,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -74276,7 +74450,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -74353,7 +74528,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -74466,7 +74642,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -74619,7 +74796,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -74760,7 +74938,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -74853,7 +75032,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -74934,7 +75114,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -75015,7 +75196,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -75084,7 +75266,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -75157,7 +75340,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -75270,7 +75454,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -76467,7 +76652,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -76568,7 +76754,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -76645,7 +76832,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -76710,7 +76898,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -76783,7 +76972,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -76896,7 +77086,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -77005,7 +77196,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -77086,7 +77278,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -77191,7 +77384,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -77376,7 +77570,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -77557,7 +77752,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -77734,7 +77930,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -77863,7 +78060,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -77984,7 +78182,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -78065,7 +78264,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -78154,7 +78354,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -78235,7 +78436,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -78400,7 +78602,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -78469,7 +78672,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -78656,7 +78860,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -78721,7 +78926,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -78818,7 +79024,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -78903,7 +79110,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -78960,7 +79168,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -79021,7 +79230,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -79090,7 +79300,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -79481,7 +79692,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -79554,7 +79766,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -79635,7 +79848,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -79720,7 +79934,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -79806,7 +80021,8 @@
       "type": "Feature",
       "properties": {
         "area name": "Island 2",
-        "stroke-opacity": ""
+        "stroke-opacity": "",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -79895,7 +80111,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -79964,7 +80181,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -80029,7 +80247,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -80106,7 +80325,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -80195,7 +80415,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -80276,7 +80497,9 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5,
+        "stroke-opacity": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -80461,7 +80684,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -80586,7 +80810,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -80688,7 +80913,8 @@
       "type": "Feature",
       "properties": {
         "area name": "Island 2",
-        "fill": ""
+        "fill": "",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -80777,7 +81003,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -80914,7 +81141,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -81139,7 +81367,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -81328,7 +81557,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -81533,7 +81763,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -81810,7 +82041,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -81975,7 +82207,8 @@
     {
       "type": "Feature",
       "properties": {
-        "area name": "Island 2"
+        "area name": "Island 2",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
