@@ -47937,7 +47937,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -48027,7 +48029,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -48058,7 +48062,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "area name": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -88177,7 +88183,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "Area name": "Al Mina"
+        "area name": "Al Mina"
       },
       "geometry": {
         "type": "Polygon",
